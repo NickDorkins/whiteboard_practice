@@ -115,17 +115,6 @@ class BinarySearchTree {
 
 
 
-
-// console.log("hello world")
-// // console.log("BOOLEAN", Boolean(59 < 59))
-// console.log("BOOLEAN", Boolean(59 != 59))
-
-
-
-
-
-
-
 // --------------- Build Tree ----------------------
 
 
