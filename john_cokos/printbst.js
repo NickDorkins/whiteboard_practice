@@ -1,3 +1,9 @@
+// Stack Overflow - https://stackoverflow.com/questions/22673602/javascript-function-to-print-out-a-full-binary-tree
+
+// JSFiddle - http://jsfiddle.net/BCZZB/1/
+
+// Tried to impliment a tree print function found on StackOverflow, could not get it to work, so I stopped messing with it.
+
 export function print(){
     var logtree = function(A){
     for(var i = 0; i < A.length; i++)
